@@ -1,0 +1,95 @@
+/* Estilos generales */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f8f9f9;
+}
+
+/* Estilos para el formulario de creación de usuario */
+form {
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+form input[type="text"], form input[type="submit"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+
+form input[type="submit"] {
+    background-color: #4CAF50; /* Color verde */
+    color: white;
+    cursor: pointer;
+}
+
+form input[type="submit"]:hover {
+    background-color: #45a049;
+}
+
+/* Estilos para la tabla de usuarios registrados */
+table {
+    width: 100%;
+    margin-top: 20px;
+    border-collapse: collapse;
+}
+
+table, th, td {
+    border: 1px solid #ddd;
+}
+
+th, td {
+    padding: 10px;
+    text-align: left;
+}
+
+th {
+    background-color: #f2f2f2;
+}
+
+/* Estilos para los botones de acción */
+.user-action-button {
+    display: inline-block;
+    padding: 5px 10px;
+    border: none;
+    border-radius: 4px;
+    color: white;
+    text-decoration: none;
+    margin-right: 10px;
+}
+
+.user-action-button.edit {
+    background-color: #4CAF50; /* Color verde */
+}
+
+.user-action-button.delete {
+    background-color: #f44336; /* Color rojo */
+}
+
+/* Estilos para centrar el título "Usuarios Registrados" */
+h2 {
+    text-align: center;
+    margin-top: 20px;
+}
+
+/* Estilos responsivos */
+@media (max-width: 600px) {
+    form {
+        padding: 10px;
+    }
+
+    form input[type="text"], form input[type="submit"] {
+        margin-bottom: 5px;
+    }
+}
+
+
+  
+  
+
