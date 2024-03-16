@@ -26,6 +26,16 @@ Habilita la visualización de errores en PHP para poder identificar cualquier pr
 ![sql1](https://github.com/Josed1804/CRUD_PHP/assets/122315167/3dbae90c-f4b7-407f-9fd3-fbe22e59ec81)
 ![css1](https://github.com/Josed1804/CRUD_PHP/assets/122315167/bdb0daac-e66f-4b22-b0c5-253435cc6d56)
 
+#TRABAJO FINAL
+
+
+![image](https://github.com/Josed1804/CRUD_PHP/assets/122315167/78743e32-312b-4e30-b5f9-0cf954f34746)
+![image](https://github.com/Josed1804/CRUD_PHP/assets/122315167/5183baa5-b5cc-47f3-a4d6-95344fafb2d0)
+
+
+
+
+
 
 
 
